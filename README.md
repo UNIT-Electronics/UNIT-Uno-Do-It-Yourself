@@ -7,6 +7,10 @@ Tarjeta de desarrollo basada en el ATMEGA328P compatible con el IDE de Arduino y
 Todos sus componentes son Through Hole, por lo que es ideal para personas que están comenzando a soldar o interesadas en el funcionamiento interno de una tarjeta de desarrollo, ya que conocerás las partes que conforman una tarjeta UNO convencional.
 ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/a01beced4e7fb894552f9791e0f5ee3087b31a74/UNIT%20UNO%20DIY.jpg)
 
+## Manual
+
+Consulta y descarga el manual de ensamblaje y programación completo en el siguiente [enlace](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/manual.pdf)
+
 ## ¿Qué incluye este kit? 🔧
 
 | Parte             | Valor       |Descripción          |
@@ -73,9 +77,69 @@ Así como la tarjeta de circuito impreso:
 Te compartimos una infografía que te puede ser util al momento de soldar y de revisar que tu soldadura se la correcta 💯
 ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/a01beced4e7fb894552f9791e0f5ee3087b31a74/Soldadura.jpg)
 
-## Manual
+## Características técnicas
+```
+USB tipo C
+Voltaje de salida:
+-	5V, 2 A por USB
+-	5V, 800mA por conector Jack (Se requiere disipación)
+-	3.3V, 800mA (Se requiere disipación)
+Voltaje de entrada:
+-	5V USB
+-	7V – 12V Power Jack (sugerido 7V a 9V)
+Microcontrolador: ATmega328
+Pines Digitales I/O: 14 (de los cuales 6 son PWM)
+Entradas Analógicas: 6 entradas
+Corriente Directa por Pin: 40mA
+Voltaje por Pin: 5V
+Memoria Flash: 32 KB;de los cuales 0.5 KB son usados por el bootloader
+SRAM: 2 KB
+EEPROM: 1 KB
+Frecuencia de Trabajo :16 MHZ
+```
+## ERRORES COMUNES ❌
 
-Consulta y descarga el manual de ensamblaje y programación completo en el siguiente [enlace](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/manual.pdf)
+#### La tarjeta no enciende al conectarla por USB o fuente externa
+
+- Revisa que tu cable USB C no sea la causa del problema.
+
+- Si es por fuente externa, revisa el cable de alimentación y que la polaridad sea la correcta.
+
+- Verifica que no haya componentes faltantes dentro de tu UNIT UNO, también asegúrate que colocaste los componentes de forma correcta.
+
+- Inspecciona tu soldadura, no debe de haber uniones o cortos entre los pines, tampoco debe faltar soldadura, tiene que unirse al pad.
+
+
+#### No puedo programar mi UNIT UNO DIY
+
+- Revisa que tu ATMEGA328P este colocado de forma correcta en la PCB.
+
+- Asegúrate que tu cable USB C tenga soporte de datos.
+
+- El microcontrolador que utilices debe tener instalado el Bootloader, de lo contario el ARDUINO IDE no reconocerá tu tarjeta.
+
+- Verifica que tu computadora tenga instalado el driver CH34X y que este reconociendo el puerto COM. Puedes hacerlo desde tu computadora en el ADMINISTRADOR DE DISPOSITIVOS -> Puertos (COM y LPT).
+
+- Si no aparece que está conectada tu tarjeta te recomendamos instalar un nuevo Driver.
+
+
+#### 3.	ERROR: EL PUERTO SELECCIONADO NO EXISTE O TU PLACA NO ESTA CONECTADA
+
+Si este error te aparece dentro del IDE de Arduino, debes de realizar lo siguiente:
+- Da clic en ARCHIVO -> PREFERENCIAS -> AJUSTES
+ 
+- Busca la opción VERIFICAR CÓDIGO DESPUÉS DE SUBIR y quita la paloma del cuadro, da clic en ok.
+ ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/ERROR.PNG)
+- Vuelve a subir el código a la tarjeta de desarrollo, el error ya no debe aparecer
+
+
+#### 4.	Ya subí mi programa a la UNIT UNO DIY, pero no enciende el led
+
+- Verifica la polaridad del led, que este soldado a la tarjeta de forma correcta.
+
+- Inspecciona tu soldadura, los componentes deben estar firmemente unidos al pad de la tarjeta, si presenta movimiento es necesario volver a soldar esa parte.
+
+- Los valores de resistencia deben ser R3 = 1K y R4 = 10K.
 
 ## Autores ✒️
 
