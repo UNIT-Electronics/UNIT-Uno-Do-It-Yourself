@@ -7,7 +7,7 @@ Tarjeta de desarrollo basada en el ATMEGA328P compatible con el IDE de Arduino y
 Todos sus componentes son Through Hole, por lo que es ideal para personas que están comenzando a soldar o interesadas en el funcionamiento interno de una tarjeta de desarrollo, ya que conocerás las partes que conforman una tarjeta UNO convencional.
 
 
-## ¿Qué incluye este kit?
+## ¿Qué incluye este kit? 🔧
 
 | Parte             | Valor       |Descripción          |
 | ----------------- | ------------|---------------------|
@@ -53,8 +53,28 @@ Todos sus componentes son Through Hole, por lo que es ideal para personas que es
 |[ATMEGA328](https://uelectronics.com/producto/atmega328p-atmel-microcontrolador/)|  |ATMEGA328P-PU Atmel Microcontrolador|
 
 Así como la tarjeta de circuito impreso:
-Así como la tarjeta de circuito impreso:
 ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/1.0.png)
 
 
+
+
+## Materiales requeridos  📋
+
+-	[Cautín tipo lápiz](https://uelectronics.com/categoria-producto/equipo-laboratorio/herramientas/)
+-	[Soldadura de estaño](https://uelectronics.com/categoria-producto/equipo-laboratorio/material-general/)
+-	[Cable USB tipo C](https://uelectronics.com/categoria-producto/componentes/cables/)
+-	IDE de Arduino o compilador equivalente
+
+## Conocimientos previos 
+
+-	Medición y lectura de resistencias, capacitores y diodos.
+-	Polaridades dentro de un componente
+
+## Autores ✒️
+
+```
+Material compilado por el equipo de UNIT Electronics
+```
+- [UNIT Electronics](https://uelectronics.com/)
+- [@fede-hidalgo]([https://www.github.com/octokatherine](https://github.com/fede-hidalgo)https://github.com/fede-hidalgo)
 
