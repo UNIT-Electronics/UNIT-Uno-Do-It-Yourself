@@ -53,7 +53,8 @@ Todos sus componentes son Through Hole, por lo que es ideal para personas que es
 |[ATMEGA328](https://uelectronics.com/producto/atmega328p-atmel-microcontrolador/)|  |ATMEGA328P-PU Atmel Microcontrolador|
 
 Así como la tarjeta de circuito impreso:
-<span>![</span><span>PCB</span><span>]</span><span>(</span><span>https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/1.0.png</span><span>)</span>
+Así como la tarjeta de circuito impreso:
+![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/1.0.png)
 
 
 
