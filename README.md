@@ -109,8 +109,11 @@ Frecuencia de Trabajo :16 MHZ
 
 ## Programación
 Instala el driver [CH340E](http://www.wch.cn/download/CH341SER_EXE.html) en tu computadora y un compilador como Arduino IDE.
+
 Ejecuta el código [blink](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/blink) y observa como el LED de tu tarjeta comienza a parpadear cada segundo.
+
 ¡Felicidades y bienvenido al maravilloso mundo de la programación de microcontroladores!
+
 ´´´
 La guía completa de programación puedes encontrarla en el manual.pdf
 ´´´
