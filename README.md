@@ -78,7 +78,7 @@ Te compartimos una infografía que te puede ser util al momento de soldar y de r
 ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/a01beced4e7fb894552f9791e0f5ee3087b31a74/Soldadura.jpg)
 
 ## Características técnicas
-```
+
 USB tipo C
 Voltaje de salida:
 -	5V, 2 A por USB
@@ -96,7 +96,15 @@ Memoria Flash: 32 KB;de los cuales 0.5 KB son usados por el bootloader
 SRAM: 2 KB
 EEPROM: 1 KB
 Frecuencia de Trabajo :16 MHZ
-```
+
+## Programación
+Instala el driver [CH340E](http://www.wch.cn/download/CH341SER_EXE.html) en tu computadora y un compilador como Arduino IDE.
+Ejecuta el código [blink](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/blink) y observa como el LED de tu tarjeta comienza a parpadear cada segundo.
+¡Felicidades y bienvenido al maravilloso mundo de la programación de microcontroladores!
+´´´
+La guía completa de programación puedes encontrarla en el manual.pdf
+´´´
+
 ## ERRORES COMUNES ❌
 
 #### La tarjeta no enciende al conectarla por USB o fuente externa
@@ -123,7 +131,7 @@ Frecuencia de Trabajo :16 MHZ
 - Si no aparece que está conectada tu tarjeta te recomendamos instalar un nuevo Driver.
 
 
-#### 3.	ERROR: EL PUERTO SELECCIONADO NO EXISTE O TU PLACA NO ESTA CONECTADA
+#### ERROR: EL PUERTO SELECCIONADO NO EXISTE O TU PLACA NO ESTA CONECTADA
 
 Si este error te aparece dentro del IDE de Arduino, debes de realizar lo siguiente:
 - Da clic en ARCHIVO -> PREFERENCIAS -> AJUSTES
@@ -133,7 +141,7 @@ Si este error te aparece dentro del IDE de Arduino, debes de realizar lo siguien
 - Vuelve a subir el código a la tarjeta de desarrollo, el error ya no debe aparecer
 
 
-#### 4.	Ya subí mi programa a la UNIT UNO DIY, pero no enciende el led
+#### Ya subí mi programa a la UNIT UNO DIY, pero no enciende el led
 
 - Verifica la polaridad del led, que este soldado a la tarjeta de forma correcta.
 
