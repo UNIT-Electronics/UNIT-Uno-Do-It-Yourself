@@ -73,6 +73,10 @@ Así como la tarjeta de circuito impreso:
 Te compartimos una infografía que te puede ser util al momento de soldar y de revisar que tu soldadura se la correcta 💯
 ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/a01beced4e7fb894552f9791e0f5ee3087b31a74/Soldadura.jpg)
 
+## Manual
+
+Consulta el manual de ensamblaje y programación completo en el siguiente [enlace](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/manual.pdf)
+
 ## Autores ✒️
 
 ```
