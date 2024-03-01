@@ -84,11 +84,9 @@ Voltaje de salida:
 -	5V, 2 A por USB
 -	5V, 800mA por conector Jack (Se requiere disipación)
 -	3.3V, 800mA (Se requiere disipación)
-  
 Voltaje de entrada:
 -	5V USB
 -	7V – 12V Power Jack (sugerido 7V a 9V)
-  
 Microcontrolador: ATmega328
 Pines Digitales I/O: 14 (de los cuales 6 son PWM)
 Entradas Analógicas: 6 entradas
