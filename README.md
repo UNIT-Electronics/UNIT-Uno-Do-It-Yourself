@@ -75,7 +75,7 @@ Te compartimos una infografía que te puede ser util al momento de soldar y de r
 
 ## Manual
 
-Consulta el manual de ensamblaje y programación completo en el siguiente [enlace](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/manual.pdf)
+Consulta y descarga el manual de ensamblaje y programación completo en el siguiente [enlace](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/manual.pdf)
 
 ## Autores ✒️
 
