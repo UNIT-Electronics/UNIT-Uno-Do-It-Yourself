@@ -114,9 +114,9 @@ Ejecuta el código [blink](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yo
 
 ¡Felicidades y bienvenido al maravilloso mundo de la programación de microcontroladores!
 
-´´´
+```
 La guía completa de programación puedes encontrarla en el manual.pdf
-´´´
+```
 
 ## ERRORES COMUNES ❌
 
