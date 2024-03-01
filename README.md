@@ -5,7 +5,7 @@
 Tarjeta de desarrollo basada en el ATMEGA328P compatible con el IDE de Arduino y con las shields y hardware diseñados para Arduino UNO el cual tiene como característica que puede ser armado por ti mismo.
 
 Todos sus componentes son Through Hole, por lo que es ideal para personas que están comenzando a soldar o interesadas en el funcionamiento interno de una tarjeta de desarrollo, ya que conocerás las partes que conforman una tarjeta UNO convencional.
-
+![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/a01beced4e7fb894552f9791e0f5ee3087b31a74/UNIT%20UNO%20DIY.jpg)
 
 ## ¿Qué incluye este kit? 🔧
 
@@ -53,9 +53,7 @@ Todos sus componentes son Through Hole, por lo que es ideal para personas que es
 |[ATMEGA328](https://uelectronics.com/producto/atmega328p-atmel-microcontrolador/)|  |ATMEGA328P-PU Atmel Microcontrolador|
 
 Así como la tarjeta de circuito impreso:
-![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/1.0.png)
-
-
+![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/PCB.png)
 
 
 ## Materiales requeridos  📋
@@ -65,10 +63,15 @@ Así como la tarjeta de circuito impreso:
 -	[Cable USB tipo C](https://uelectronics.com/categoria-producto/componentes/cables/)
 -	IDE de Arduino o compilador equivalente
 
-## Conocimientos previos 
+## Conocimientos previos 🧠
 
 -	Medición y lectura de resistencias, capacitores y diodos.
 -	Polaridades dentro de un componente
+
+## ¿Cómo soldar correctamente? ♨️
+
+Te compartimos una infografía que te puede ser util al momento de soldar y de revisar que tu soldadura se la correcta 💯
+![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/a01beced4e7fb894552f9791e0f5ee3087b31a74/Soldadura.jpg)
 
 ## Autores ✒️
 
@@ -76,5 +79,5 @@ Así como la tarjeta de circuito impreso:
 Material compilado por el equipo de UNIT Electronics
 ```
 - [UNIT Electronics](https://uelectronics.com/)
-- [@fede-hidalgo]([https://www.github.com/octokatherine](https://github.com/fede-hidalgo)https://github.com/fede-hidalgo)
+- [Federico Hidalgo](https://github.com/fede-hidalgo)
 
