@@ -30,7 +30,7 @@ Si este error te aparece dentro del IDE de Arduino, debes de realizar lo siguien
 - Da clic en ARCHIVO -> PREFERENCIAS -> AJUSTES
  
 - Busca la opción VERIFICAR CÓDIGO DESPUÉS DE SUBIR y quita la paloma del cuadro, da clic en ok.
- ![]()
+ ![](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/docs/ERROR.PNG)
 - Vuelve a subir el código a la tarjeta de desarrollo, el error ya no debe aparecer
 
 
