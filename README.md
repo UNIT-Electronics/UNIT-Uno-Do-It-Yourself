@@ -50,9 +50,9 @@ Esta tarjeta está inspirada en el Arduino UNO y es compatible con las shields y
 
 ## Manual 📙
 
-El ensamblaje de la tarjeta es de nivel básico. Consulta y descarga el manual de armado y programación completo en el siguiente [enlace](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/docs/manual.pdf)
+El ensamblaje de la tarjeta es de nivel básico. Consulta y descarga el manual de armado y programación completo en el siguiente [enlace.](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/docs/manual.pdf)
 
-La lista completa componentes que incluye el kit revisala [aquí]().
+La lista completa componentes que incluye el kit revisala [aquí](https://github.com/UNIT-Electronics/UNIT-Uno-Do-It-Yourself/blob/main/docs/kit.md).
 
 ## Programación 💻
 1. **Instala el driver** [CH340E](http://www.wch.cn/download/CH341SER_EXE.html) en tu computadora y un **compilador** como [Arduino IDE](https://www.arduino.cc/en/software).
