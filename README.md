@@ -1,8 +1,8 @@
 
 ![Logo](https://uelectronics.com/wp-content/uploads/2021/05/Logo-UNIT_Web-04-800x182.png)
-# UNIT Uno Do It Your Self
+# UNIT Uno Do It Yourself
 
-El proyecto "UNIT Uno Do It Your Self" es una tarjeta de desarrollo basada en el microcontrolador ATMEGA328P, compatible con el entorno de desarrollo integrado (IDE) de Arduino.
+El proyecto "UNIT Uno Do It Yourself" es una tarjeta de desarrollo basada en el microcontrolador ATMEGA328P, compatible con el entorno de desarrollo integrado (IDE) de Arduino.
 
 Esta tarjeta está inspirada en el Arduino UNO y es compatible con las shields y hardware diseñados para esta plataforma. Todos sus componentes son Through Hole, lo que la hace ideal para personas que están comenzando a soldar o que tienen interés en comprender la estructura interna de una tarjeta de desarrollo.
 
